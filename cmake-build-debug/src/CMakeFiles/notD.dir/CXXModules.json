@@ -1,0 +1,35 @@
+{
+	"modules" : 
+	{
+		"Not.Dns" : 
+		{
+			"bmi" : "/home/mahdi/dev/dns/cmake-build-debug/src/CMakeFiles/notD.dir/Not.Dns.pcm",
+			"is-private" : false
+		},
+		"Not.Dns:Packet" : 
+		{
+			"bmi" : "/home/mahdi/dev/dns/cmake-build-debug/src/CMakeFiles/notD.dir/Not.Dns-Packet.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"Not.Dns" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "src/CMakeFiles/notD.dir/Not.Dns.pcm"
+		},
+		"Not.Dns:Packet" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "src/CMakeFiles/notD.dir/Not.Dns-Packet.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"Not.Dns" : 
+		[
+			"Not.Dns:Packet"
+		]
+	}
+}

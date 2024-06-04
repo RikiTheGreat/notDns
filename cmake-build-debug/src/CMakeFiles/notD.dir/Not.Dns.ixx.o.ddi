@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "src/CMakeFiles/notD.dir/Not.Dns.ixx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Not.Dns",
+          "source-path": "/home/mahdi/dev/dns/src/Not.Dns.ixx"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Not.Dns:Packet"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

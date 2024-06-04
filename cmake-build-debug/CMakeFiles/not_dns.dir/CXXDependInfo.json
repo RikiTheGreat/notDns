@@ -1,0 +1,24 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/mahdi/dev/dns/cmake-build-debug",
+	"dir-cur-src" : "/home/mahdi/dev/dns",
+	"dir-top-bld" : "/home/mahdi/dev/dns/cmake-build-debug",
+	"dir-top-src" : "/home/mahdi/dev/dns",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/mahdi/dev/dns/src"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/home/mahdi/dev/dns/cmake-build-debug/src/CMakeFiles/notD.dir"
+	],
+	"module-dir" : "/home/mahdi/dev/dns/cmake-build-debug/CMakeFiles/not_dns.dir"
+}

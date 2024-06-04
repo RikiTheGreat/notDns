@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "src/CMakeFiles/notD.dir/Not.Dns_Packet.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Not.Dns"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
