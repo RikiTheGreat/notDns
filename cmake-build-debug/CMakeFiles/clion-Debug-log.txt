@@ -1,4 +1,0 @@
-/home/mahdi/cmake-3.29.3-linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/277/bin/ninja/linux/x64/ninja -DCMAKE_CXX_COMPILER=clang++-18 -DCMAKE_TOOLCHAIN_FILE=/home/mahdi/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /home/mahdi/dev/dns -B /home/mahdi/dev/dns/cmake-build-debug
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: /home/mahdi/dev/dns/cmake-build-debug

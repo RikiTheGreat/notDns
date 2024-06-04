@@ -1,9 +1,0 @@
-ninja_dyndep_version = 1.0
-build src/CMakeFiles/notD.dir/Not.Dns_Packet.cpp.o: dyndep | src/CMakeFiles/notD.dir/Not.Dns.pcm
-
-build src/CMakeFiles/notD.dir/Not.Dns.ixx.o | src/CMakeFiles/notD.dir/Not.Dns.pcm: dyndep | src/CMakeFiles/notD.dir/Not.Dns-Packet.pcm
-  restat = 1
-
-build src/CMakeFiles/notD.dir/Not.Dns_Packet.ixx.o | src/CMakeFiles/notD.dir/Not.Dns-Packet.pcm: dyndep
-  restat = 1
-
